@@ -11,8 +11,6 @@ import { cn } from "@/lib/utils";
 import samplePdf from "../resources/sample.pdf";
 import Layout from "@/components/layout/app-layout";
 
-// Dummy import for the PDF file
-// In a real app, you would use the correct path to your PDF
 const samplePdfPath = "../resources/sample.pdf";
 
 type Message = {
